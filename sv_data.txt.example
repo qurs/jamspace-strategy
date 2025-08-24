@@ -1,0 +1,43 @@
+{
+	"chances": {
+		"reformaArmii": 15,
+		"reformaPriziva": 20,
+		"reformaObrazovaniya": 15
+	},
+
+	"bonuses": {
+		"reformaArmii": 0.5,
+		"reformaPriziva": 5,
+		"reformaObrazovaniya": 2.5
+	},
+
+	"regionTypesProperties": {
+		"desert": {
+			"mobilization_force": 0.1,
+			"resources": 1,
+			"debuff_on_attack": 25
+		},
+
+		"forest": {
+			"mobilization_force": 0.5,
+			"resources": 0.25,
+			"debuff_on_attack": 10
+		},
+
+		"plains": {
+			"mobilization_force": 1,
+			"resources": 0,
+			"debuff_on_attack": 0
+		}
+	},
+
+	"maxSupplyDebuff": 45,
+
+	"neighbors": {
+
+	},
+
+	"regionTypes": {
+
+	}
+}
